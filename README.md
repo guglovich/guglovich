@@ -22,14 +22,17 @@ I maintain [15+ AUR packages](https://aur.archlinux.org/packages?K=guglovich&SeB
 
 ## 💎 Support My Work
 
-All my projects are free and open-source. Your donations help fund AI agent subscriptions and development time.
+All my projects are free and open-source. Your support helps fund AI agent subscriptions and development time.
 
-[![Support My Work](https://img.shields.io/badge/Support-My%20Work-2ea043?logo=github)](https://guglovich.github.io/donate/)
+### GitHub Sponsors
 
-### Donation Options
+[![Sponsor](https://img.shields.io/badge/Sponsor-❤️-ff69b4?logo=github&logoColor=white)](https://github.com/sponsors/guglovich)
+
+### Other Options
+
+[![Donate](https://img.shields.io/badge/Donate-Donation%20Page-2ea043?logo=github)](https://guglovich.github.io/donate/)
 
 - **TON**: `UQAlUvWM_8JGpR0DIgbz6xCtXN5eBclbH4qxP6NH0_z0Nwqu`
-- **Email**: guglovich164@gmail.com
 
 ---
 
