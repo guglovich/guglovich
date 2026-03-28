@@ -8,7 +8,7 @@ UX Designer Intern turned vibe coder. Building tools for the Linux community wit
 - **SimpleX Chat Linux Native** — Native desktop apps for SimpleX Chat
 - And more on my [GitHub profile](https://github.com/guglovich?tab=repositories)
 
-## 🐧 AUR Packages
+## <img src="https://cdn.simpleicons.org/archlinux/1793D1" width="18" height="18" valign="middle"> AUR Packages
 
 I maintain [15+ AUR packages](https://aur.archlinux.org/packages?K=guglovich&SeB=m) including:
 - `smp-server` — SMP relay server for SimpleX Chat
@@ -19,7 +19,7 @@ I maintain [15+ AUR packages](https://aur.archlinux.org/packages?K=guglovich&SeB
 
 ---
 
-## 📬 Contact
+## 🤝 Volunteering
 
-- GitHub: [@guglovich](https://github.com/guglovich)
-- Email: guglovich164@gmail.com
+- **Torrent Seeding** — ~4700 torrents, ~16TB shared
+- **Mesh Network Participant** — Meshtastic & MeshCore LoRa networks
