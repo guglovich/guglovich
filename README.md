@@ -1,6 +1,6 @@
 # Hi there, I'm guglovich! 👋
 
-UX Designer Intern turned vibe coder. Building tools for the Linux community with AI assistance. Your support helps me continue creating free and open-source software. 
+UX Designer Intern turned vibe coder. Building tools for the Linux community with AI assistance. 
 
 ## 📦 My Projects
 
