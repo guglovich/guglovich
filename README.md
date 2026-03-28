@@ -19,7 +19,7 @@ I maintain [15+ AUR packages](https://aur.archlinux.org/packages?K=guglovich&SeB
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f3a7.svg" width="18" height="18" valign="middle"> Volunteering
+## <img src="https://game-icons.net/icons/1x1/delapouite/ship-wheel.svg" width="18" height="18" valign="middle" style="background:#00000020;border-radius:3px"> Volunteering
 
 - **Torrent Seeding** — ~4700 torrents, ~16TB shared
 - **Mesh Network Participant** — Meshtastic & MeshCore LoRa networks
