@@ -5,7 +5,7 @@ UX Designer Intern turned vibe coder. Building tools for the Linux community wit
 ## 📦 My Projects
 
 - **Transmission-Remote-Slint** — Lightweight Transmission GUI (Rust + Slint)
-- **SimpleX Chat Linux Native** — Native desktop apps for SimpleX Chat
+- **d3d9 wrapper for Lineage 2** — A proxy d3d9.dll for Lineage 2 clients based on Unreal Engine 2 / Direct3D 9.
 - And more on my [GitHub profile](https://github.com/guglovich?tab=repositories)
 
 ## <img src="https://cdn.simpleicons.org/archlinux/1793D1" width="18" height="18" valign="middle"> AUR Packages
