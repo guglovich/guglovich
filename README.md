@@ -10,7 +10,7 @@ UX Designer Intern turned vibe coder. Building tools for the Linux community wit
 
 ## <img src="https://cdn.simpleicons.org/archlinux/1793D1" width="18" height="18" valign="middle"> AUR Packages
 
-I maintain [15+ AUR packages](https://aur.archlinux.org/packages?K=guglovich&SeB=m) including:
+I maintain [20+ AUR packages](https://aur.archlinux.org/packages?K=guglovich&SeB=m) including:
 - `smp-server` — SMP relay server for SimpleX Chat
 - `xftp-server` — XFTP relay server for SimpleX Chat
 - `wg-portal` — Web-based WireGuard VPN configuration portal
